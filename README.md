@@ -2,6 +2,7 @@
 ---
 #- hosts: localhost
 #- hosts: aws-eks
+#- hosts: double-palava
 #- hosts: fortinet
 - hosts: all
   #become: true
