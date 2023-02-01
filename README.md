@@ -2,6 +2,7 @@
 ---
 #- hosts: localhost
 #- hosts: fortinet
+#- hosts: palava-host
 - hosts: all
   #become: true
 
