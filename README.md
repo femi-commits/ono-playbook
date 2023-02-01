@@ -1,7 +1,6 @@
 # ono-playbook
 ---
 #- hosts: localhost
-#- hosts: aws-eks
 #- hosts: fortinet
 - hosts: all
   #become: true
